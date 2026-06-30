@@ -4,23 +4,23 @@ Your support helps keep TeleClaw free and open for everyone!
 
 ---
 
-## ☕ Buy Me a Coffee
-[https://buymeacoffee.com/teleclaw](https://buymeacoffee.com/teleclaw)
+## 🐱 GitHub Sponsors
+Sponsor us on GitHub: [https://github.com/sponsors/tmzmessi](https://github.com/sponsors/tmzmessi)
 
 ---
 
-## 🐱 GitHub Sponsors
-[https://github.com/sponsors/teleclaw](https://github.com/sponsors/teleclaw)
+## ☕ Buy Me a Coffee
+Coming soon...
 
 ---
 
 ## 💚 WeChat
-`teleclaw_dev`
+Coming soon...
 
 ---
 
 ## 🔗 Alipay
-`support@teleclaw.dev`
+Coming soon...
 
 ---
 

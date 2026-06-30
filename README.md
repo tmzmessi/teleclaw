@@ -83,10 +83,10 @@ Copyright 2026 TeleClaw
 
 If you like TeleClaw, please consider supporting our development!
 
-- ☕ [Buy Me a Coffee](https://buymeacoffee.com/teleclaw)
-- 🐱 [GitHub Sponsors](https://github.com/sponsors/teleclaw)
-- 💚 WeChat: `teleclaw_dev`
-- 🔗 Alipay: `support@teleclaw.dev`
+- 🐱 [GitHub Sponsors](https://github.com/sponsors/tmzmessi)
+- ☕ Buy Me a Coffee (coming soon)
+- 💚 WeChat (coming soon)
+- 🔗 Alipay (coming soon)
 
 ---
 
