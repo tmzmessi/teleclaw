@@ -20,7 +20,7 @@
 
 | Version | Date | Size | Link |
 |---------|------|------|------|
-| v1.4.2 | 2026-06 | ~10 MB | [Download APK](../../releases/latest) |
+| v1.8.0 | 2026-06 | ~40 MB | [Download APK](../../releases/latest) |
 
 > Minimum Android 8.0 (API 26)
 
