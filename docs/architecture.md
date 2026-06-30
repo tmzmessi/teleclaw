@@ -18,7 +18,7 @@ TeleClaw is a mobile AI agent platform built on a modular architecture. The syst
 │  BM25 + MD │ Registry │  Intent Recognition   │
 ├───────────┴──────────┴───────────────────────┤
 │           Platform Services                   │
-│  Shizuku · Accessibility · VirtualDisplay     │
+│    Built-in permission system · VirtualDisplay │
 ├──────────────────────────────────────────────┤
 │              VLM Client                       │
 │       OpenAI-compatible API interface         │
@@ -43,7 +43,7 @@ A registry-based tool framework where each tool declares its schema and handler:
 |------|-------------|
 | `read` | Read file contents |
 | `write` | Write or create files |
-| `shell` | Execute shell commands (via Shizuku) |
+| `shell` | Execute shell commands |
 | `image` | Image recognition via VLM |
 | `search` | Search memory using BM25 |
 | `web_fetch` | Fetch and extract web content |
@@ -54,8 +54,7 @@ Intent recognition system that matches user requests to available app capabiliti
 - **GUI automation** — Step-by-step screen interaction
 
 ### Platform Services
-- **Shizuku** — System-level permissions without root (embedded, invisible to other apps)
-- **Accessibility** — UI tree reading and interaction
+- **Built-in Permission System** — Full control over your device without external dependencies
 - **Virtual Display** — Background app operation on a virtual screen
 
 ## Session Lifecycle
@@ -89,7 +88,6 @@ Memory Update (if significant)
 ## Security Model
 
 - All processing happens on-device by default
-- Shizuku binder only sent to TeleClaw itself
 - No external telemetry
 - API keys encrypted at rest
 - Session data stored in app-private directory

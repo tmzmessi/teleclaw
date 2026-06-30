@@ -7,8 +7,8 @@
 ## ✨ Features
 
 - 🧠 **AI Agent** — Intelligent conversation and task execution
-- 📱 **Phone Control** — Automated device operation via accessibility services
-- 🖥️ **Virtual Display** — Background app automation without root
+- 📱 **Phone Control** — Automated device operation with built-in permissions
+- 🖥️ **Virtual Display** — Background app automation
 - 🛠️ **Tool System** — File operations, shell commands, web fetch and more
 - 💾 **Memory System** — Persistent conversation context across sessions
 - ⏰ **Scheduled Tasks** — Cron-like automation for recurring jobs
@@ -32,7 +32,7 @@
   <img src="screenshots/tools.jpg" width="200" alt="Tools"/>
 </div>
 
-## 🏗️ Architecture
+## ��️ Architecture
 
 TeleClaw uses a modular agent architecture designed for mobile:
 
@@ -44,13 +44,13 @@ TeleClaw uses a modular agent architecture designed for mobile:
 ├──────────┬──────────────┤
 │  Memory   │    Tools     │   BM25 search · Shell · File · Web
 ├──────────┴──────────────┤
-│    Platform Services     │   Shizuku · Accessibility · VirtualDisplay
+│   Platform Services     │   Built-in permission system
 ├─────────────────────────┤
 │      VLM Client          │   OpenAI-compatible API
 └─────────────────────────┘
 ```
 
-> 📖 See [architecture.md](docs/architecture.md) for detailed design
+> 📖 See [architecture.md](docs/architecture.md) for details
 
 ## 🔧 Build from Source
 
@@ -59,8 +59,8 @@ TeleClaw uses a modular agent architecture designed for mobile:
 > download the pre-built APK from [Releases](../../releases/latest).
 
 ```bash
-git clone https://github.com/teleclaw/TeleClaw.git
-cd TeleClaw
+git clone https://github.com/tmzmessi/teleclaw.git
+cd teleclaw
 ./gradlew assembleDebug
 ```
 
@@ -74,7 +74,18 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ```
 Copyright 2026 TeleClaw
-...
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 ```
 
 ---
@@ -84,7 +95,7 @@ Copyright 2026 TeleClaw
 If you like TeleClaw, please consider supporting our development!
 
 - 🐱 [GitHub Sponsors](https://github.com/sponsors/tmzmessi)
-- ☕ Buy Me a Coffee (coming soon)
+- �� Buy Me a Coffee (coming soon)
 - 💚 WeChat (coming soon)
 - 🔗 Alipay (coming soon)
 

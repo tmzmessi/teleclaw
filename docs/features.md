@@ -7,10 +7,10 @@
 - Automatic session compaction for long conversations
 
 ## 📱 Phone Control
-- Automated tap, swipe, and input via accessibility services
-- Shizuku-powered system-level operations (no root needed)
+- Automated tap, swipe, and input with built-in permission system
 - App launch, stop, uninstall, clear data
 - Permission grant/revoke management
+- System settings control
 
 ## 🖥️ Virtual Display
 - Create virtual screens for background automation
@@ -43,5 +43,4 @@
 ## 🔒 Privacy
 - All data stays on your device
 - No telemetry or tracking
-- Shizuku invisible to other apps
 - API keys encrypted locally
