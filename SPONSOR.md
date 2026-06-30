@@ -4,23 +4,19 @@ Your support helps keep TeleClaw free and open for everyone!
 
 ---
 
-## 🐱 GitHub Sponsors
-Sponsor us on GitHub: [https://github.com/sponsors/tmzmessi](https://github.com/sponsors/tmzmessi)
+## ☕ 爱发电
+
+支持项目运营：[https://www.ifdian.net/a/teleclaw](https://www.ifdian.net/a/teleclaw)
 
 ---
 
-## ☕ Buy Me a Coffee
-Coming soon...
+## 🪙 Web3 赞助
 
----
-
-## 💚 WeChat
-Coming soon...
-
----
-
-## 🔗 Alipay
-Coming soon...
+| Chain | Address |
+|-------|---------|
+| BTC | `bc1pn2c8n2csn7s8qxw4v0ssp6s28mu90ew0szwgxu6mz87rwjxaapks6lenyf` |
+| ETH | `0xc92d81abea02d9dc349dd671858d1e7617746454` |
+| SOL | `4EP5GuvEsXbRPRkHQAL4B4VKZnV9ppLA96NLT4U73DyC` |
 
 ---
 

@@ -93,10 +93,8 @@ limitations under the License.
 
 If you like TeleClaw, please consider supporting our development!
 
-- 🐱 [GitHub Sponsors](https://github.com/sponsors/tmzmessi)
-- �� Buy Me a Coffee (coming soon)
-- 💚 WeChat (coming soon)
-- 🔗 Alipay (coming soon)
+- ☕ [爱发电](https://www.ifdian.net/a/teleclaw)
+- 🪙 Web3: BTC / ETH / SOL
 
 ---
 
