@@ -28,7 +28,6 @@
 
 <div align="center">
   <img src="screenshots/home.jpg" width="200" alt="Home Screen"/>
-  <img src="screenshots/chat.jpg" width="200" alt="Chat"/>
   <img src="screenshots/tools.jpg" width="200" alt="Tools"/>
 </div>
 
