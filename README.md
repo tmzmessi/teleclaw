@@ -32,7 +32,7 @@
   <img src="screenshots/tools.jpg" width="200" alt="Tools"/>
 </div>
 
-## ��️ Architecture
+## 🏗️ Architecture
 
 TeleClaw uses a modular agent architecture designed for mobile:
 
