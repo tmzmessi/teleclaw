@@ -20,7 +20,8 @@
 
 | Version | Date | Size | Link |
 |---------|------|------|------|
-| v1.8.0 | 2026-06 | ~40 MB | [Download APK](../../releases/latest) |
+| v1.8.1 | 2026-07-17 | 26.5 MB | [Download APK](../../releases/latest) |
+| v1.8.0 | 2026-06 | ~40 MB | [Download APK](https://github.com/tmzmessi/TeleClaw/releases/tag/v1.8.0) |
 
 > Minimum Android 8.0 (API 26)
 

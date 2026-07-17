@@ -2,6 +2,15 @@
 
 All notable changes to TeleClaw will be documented in this file.
 
+## [1.8.1] - 2026-07-17
+
+### Changed
+- APK size reduced from ~40 MB to **26.5 MB** via R8 optimization and native library consolidation
+- Release signing switched to production keystore (Apache 2.0 distribution ready)
+
+### Security
+- Push notification API endpoints obfuscated via native C++ layer (no plaintext URLs in APK)
+
 ## [1.4.2] - 2026-06
 
 ### Added
