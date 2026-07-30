@@ -2,6 +2,11 @@
 
 All notable changes to TeleClaw will be documented in this file.
 
+## [1.8.5] - 2026-07-30
+
+### Fixed
+- Drawer width on landscape/tablet no longer occludes main content
+
 ## [1.8.1] - 2026-07-17
 
 ### 体验优化
