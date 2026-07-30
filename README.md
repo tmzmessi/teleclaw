@@ -20,6 +20,7 @@
 
 | Version | Date | Size | Link |
 |---------|------|------|------|
+| v1.8.5 | 2026-07-30 | 轻量 | [Download APK](../../releases/latest) |
 | v1.8.1 | 2026-07-17 | 轻量 | [Download APK](../../releases/latest) |
 | v1.8.0 | 2026-06 | - | [Download APK](https://github.com/tmzmessi/TeleClaw/releases/tag/v1.8.0) |
 
