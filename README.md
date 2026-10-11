@@ -16,14 +16,13 @@
 
 ## 📲 Download
 
-👉 **[Latest Release](../../releases/latest)**
+**最新版（始终指向最新版本，无需在此查看历史）**
 
-| Version | Date | Size | Link |
-|---------|------|------|------|
-| v1.9.6 | 2026-08-24 | 轻量 | [Download APK](../../releases/latest) |
-| v1.9.5 | 2026-08-22 | 轻量 | [Download APK](https://github.com/tmzmessi/teleclaw/releases/tag/v1.9.5) |
+👉 **[⬇️ Download Latest APK](../../releases/latest)**
 
-> Minimum Android 8.0 (API 26)
+🌐 官网下载：<https://teleclaw.info/download/teleclaw-latest.apk>
+
+> Minimum Android 8.0 (API 26) · 完全离线运行
 
 ## 📸 Screenshots
 
@@ -42,7 +41,7 @@ TeleClaw uses a modular agent architecture designed for mobile:
 ├─────────────────────────┤
 │      Agent Core          │   Conversation loop & orchestration
 ├──────────┬──────────────┤
-│  Memory   │    Tools     │   BM25 search · Shell · File · Web
+│  Memory   │    Tools     │   Semantic search · Shell · File · Web
 ├──────────┴──────────────┤
 │   Platform Services     │   Built-in permission system
 ├─────────────────────────┤
