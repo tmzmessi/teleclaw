@@ -49,8 +49,6 @@ TeleClaw uses a modular agent architecture designed for mobile:
 └─────────────────────────┘
 ```
 
-> 📖 See [architecture.md](docs/architecture.md) for details
-
 ## 🔧 Build from Source
 
 > ⚠️ **Note:** Some proprietary modules are not included in this repository.
