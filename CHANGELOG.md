@@ -1,0 +1,79 @@
+# Changelog
+
+All notable changes to TeleClaw will be documented in this file.
+
+## [2.1.0] - 2026-10-22
+
+更新bug，优化
+
+## [2.0.5] - 2026-10-18
+
+更新bug，优化
+
+## [2.0.0 ~ 2.0.4]
+
+更新bug，优化
+
+## [1.8.5] - 2026-07-30
+
+### Fixed
+- Drawer width on landscape/tablet no longer occludes main content
+
+## [1.8.1] - 2026-07-17
+
+### 体验优化
+- 启动速度提升
+- 运行更流畅
+- 内存占用更低
+- 更省电
+
+### 问题修复
+- 修复多处已知崩溃
+- 修复部分场景下的异常
+- 提升整体稳定性
+
+## [1.4.2] - 2026-06
+
+### Added
+- Tool call bubble UI with expandable details
+- Smart tool display resolver for concise summaries
+- BM25-based active memory search
+- Session compaction with quality guard
+- Heartbeat system for periodic checks
+- Virtual display background automation
+- Shizuku embedded service (invisible to other apps)
+- Scheduled tasks (cron-like automation)
+
+### Changed
+- Improved conversation context management
+- Optimized token usage tracking
+
+## [1.3.0] - 2026-05
+
+### Added
+- Skills intent recognition system
+- Workspace management with auto-initialization
+- Bootstrap activation flow
+- Daily and idle session reset
+
+## [1.2.0] - 2026-04
+
+### Added
+- VLM client with OpenAI-compatible API
+- Function calling support
+- Image recognition capability
+- Streaming response support
+
+## [1.1.0] - 2026-03
+
+### Added
+- Basic tool system (read, write, shell, search)
+- Session persistence (JSONL format)
+- Memory manager with daily notes
+
+## [1.0.0] - 2026-02
+
+### Added
+- Initial release
+- Core agent architecture
+- Basic conversation interface
