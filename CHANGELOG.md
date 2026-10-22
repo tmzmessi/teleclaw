@@ -2,10 +2,6 @@
 
 All notable changes to TeleClaw will be documented in this file.
 
-## [2.1.0] - 2026-10-22
-
-更新bug，优化
-
 ## [2.0.5] - 2026-10-18
 
 更新bug，优化
